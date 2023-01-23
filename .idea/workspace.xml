@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e7d5cf72-2a8a-47c0-8ed5-291e41f8182f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../camp/echo/tbn/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../camp/echo/tbn/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../camp/echo/tbn/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../camp/echo/tbn/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../camp/echo/tbn/src/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../camp/echo/tbn/src/command.test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../camp/echo/tbn/src/command.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../camp/echo/tbn/src/main.test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../camp/echo/tbn/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../camp/echo/tbn/src/sprint1command.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../camp/echo/tbn/styles/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../camp/echo/tbn/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../camp/echo/tbn/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/brown/cs/student/mixer/Mixer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/brown/cs/student/mixer/MixerExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/brown/cs/student/mixer/attachments/DoughHook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/brown/cs/student/mixer/attachments/WireWhip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/brown/cs/student/sorting/appendixSorting/ComparatorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/brown/cs/student/sorting/appendixSorting/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/brown/cs/student/sorting/appendixSorting/comparators/SortByAge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/brown/cs/student/sorting/appendixSorting/comparators/SortByNameAToZ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/brown/cs/student/sorting/appendixSorting/comparators/SortByNameZToA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/brown/cs/student/mixer/attachments/DoughHookTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/brown/cs/student/mixer/attachments/WireWhipTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../s2/s2_rubric.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/brown/cs/student/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/brown/cs/student/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-edu.brown.cs.student.stars.sorting.SortByAgeTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-edu.brown.cs.student.stars.sorting.SortByAgeTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-edu.brown.cs.student.stars.sorting.SortByNameTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-edu.brown.cs.student.stars.sorting.SortByNameTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/edu.brown.cs.student.stars.sorting.SortByAgeTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/edu.brown.cs.student.stars.sorting.SortByAgeTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/edu.brown.cs.student.stars.sorting.SortByNameTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/edu.brown.cs.student.stars.sorting.SortByNameTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/edu/brown/cs/student/stars/sorting/SortByAgeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/edu/brown/cs/student/stars/sorting/SortByAgeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/edu/brown/cs/student/stars/sorting/SortByNameTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/edu/brown/cs/student/stars/sorting/SortByNameTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ts-events/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../ts-events/main.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../s0/s0.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../s0/s0.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../s0/s0_rubric.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../s0/s0_rubric.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../s1/s1.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../s1/s1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../s1/s1_reflection.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../s1/s1_reflection.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../s1/s1_rubric.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../s1/s1_rubric.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../s2/s2.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../s2/s2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../s2/s2_reflection.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../s2/s2_reflection.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/.idea/checkstyle-idea.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/.idea/google-java-format.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/google-java-format.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/.idea/libraries/Maven__junit_junit_4_13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/.idea/libraries/Maven__org_hamcrest_hamcrest_all_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_all_1_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/.mvn-classpath" beforeDir="false" afterPath="$PROJECT_DIR$/.mvn-classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/config/cs32_checks.xml" beforeDir="false" afterPath="$PROJECT_DIR$/config/cs32_checks.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/config/cs32_intellij_checks.xml" beforeDir="false" afterPath="$PROJECT_DIR$/config/cs32_intellij_checks.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/cs32-test" beforeDir="false" afterPath="$PROJECT_DIR$/cs32-test" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/data/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/data/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/data/stars/equidistant-star.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/stars/equidistant-star.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/data/stars/invalid-header.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/stars/invalid-header.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/data/stars/invalid-star.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/stars/invalid-star.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/data/stars/no-star.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/stars/no-star.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/data/stars/one-star.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/stars/one-star.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/data/stars/stardata.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/stars/stardata.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/data/stars/stars-at-same-point.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/stars/stars-at-same-point.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/data/stars/ten-star.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/stars/ten-star.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/data/stars/three-more-stars.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/stars/three-more-stars.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/data/stars/three-star.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/stars/three-star.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/run" beforeDir="false" afterPath="$PROJECT_DIR$/run" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/src/main/java/edu/brown/cs/student/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/src/main/java/edu/brown/cs/student/mixer/Mixer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/src/main/java/edu/brown/cs/student/mixer/Mixer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/src/main/java/edu/brown/cs/student/mixer/MixerExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/src/main/java/edu/brown/cs/student/mixer/MixerExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/src/main/java/edu/brown/cs/student/mixer/attachements/Attachement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/brown/cs/student/mixer/attachments/Attachment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/src/main/java/edu/brown/cs/student/mixer/attachements/DoughHook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/src/main/java/edu/brown/cs/student/mixer/attachements/WireWhip.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/src/main/java/edu/brown/cs/student/sorting/ComparatorExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/src/main/java/edu/brown/cs/student/sorting/ComparatorExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/src/main/java/edu/brown/cs/student/sorting/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/src/main/java/edu/brown/cs/student/sorting/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/src/main/java/edu/brown/cs/student/sorting/comparators/SortByAge.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/src/main/java/edu/brown/cs/student/sorting/comparators/SortByAge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/src/main/java/edu/brown/cs/student/sorting/comparators/SortByNameAToZ.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/src/main/java/edu/brown/cs/student/sorting/comparators/SortByNameAToZ.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/src/main/java/edu/brown/cs/student/sorting/comparators/SortByNameZToA.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/src/main/java/edu/brown/cs/student/sorting/comparators/SortByNameZToA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/src/main/resources/spark/template/freemarker/main.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spark/template/freemarker/main.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/src/main/resources/spark/template/freemarker/query.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spark/template/freemarker/query.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/src/main/resources/static/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/src/test/java/edu/brown/cs/student/sorting/SortByAgeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/edu/brown/cs/student/sorting/appendixSorting/SortByAgeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/src/test/java/edu/brown/cs/student/sorting/SortByNameTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/edu/brown/cs/student/sorting/appendixSorting/SortByNameTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/stars.iml" beforeDir="false" afterPath="$PROJECT_DIR$/stars.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/target/classes/edu/brown/cs/student/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/brown/cs/student/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/target/classes/edu/brown/cs/student/mixer/Mixer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/brown/cs/student/mixer/Mixer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/target/classes/edu/brown/cs/student/mixer/MixerExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/brown/cs/student/mixer/MixerExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/target/classes/edu/brown/cs/student/mixer/attachements/Attachement.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/brown/cs/student/mixer/attachements/Attachement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/target/classes/edu/brown/cs/student/mixer/attachements/DoughHook.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/brown/cs/student/mixer/attachements/DoughHook.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/target/classes/edu/brown/cs/student/mixer/attachements/WireWhip.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/brown/cs/student/mixer/attachements/WireWhip.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/target/classes/edu/brown/cs/student/sorting/ComparatorExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/brown/cs/student/sorting/ComparatorExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/target/classes/edu/brown/cs/student/sorting/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/brown/cs/student/sorting/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/target/classes/edu/brown/cs/student/sorting/comparators/SortByAge.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/brown/cs/student/sorting/comparators/SortByAge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/target/classes/edu/brown/cs/student/sorting/comparators/SortByNameAToZ.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/brown/cs/student/sorting/comparators/SortByNameAToZ.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/target/classes/edu/brown/cs/student/sorting/comparators/SortByNameZToA.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/brown/cs/student/sorting/comparators/SortByNameZToA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/target/classes/spark/template/freemarker/main.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/spark/template/freemarker/main.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/target/classes/spark/template/freemarker/query.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/spark/template/freemarker/query.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/target/classes/static/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/target/s0-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/s0-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/target/surefire-reports/TEST-edu.brown.cs.student.stars.CSVReaderTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-edu.brown.cs.student.stars.CSVReaderTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/target/surefire-reports/TEST-edu.brown.cs.student.stars.KDTreeTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-edu.brown.cs.student.stars.KDTreeTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/target/surefire-reports/TEST-edu.brown.cs.student.stars.REPLTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-edu.brown.cs.student.stars.REPLTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/target/surefire-reports/TEST-edu.brown.cs.student.stars.StarsProgramTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-edu.brown.cs.student.stars.StarsProgramTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/target/surefire-reports/TEST-edu.brown.cs.student.stars.sorting.SortByAgeTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/target/surefire-reports/TEST-edu.brown.cs.student.stars.sorting.SortByNameTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/target/surefire-reports/edu.brown.cs.student.stars.CSVReaderTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/edu.brown.cs.student.stars.CSVReaderTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/target/surefire-reports/edu.brown.cs.student.stars.KDTreeTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/edu.brown.cs.student.stars.KDTreeTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/target/surefire-reports/edu.brown.cs.student.stars.REPLTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/edu.brown.cs.student.stars.REPLTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/target/surefire-reports/edu.brown.cs.student.stars.StarsProgramTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/edu.brown.cs.student.stars.StarsProgramTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/target/surefire-reports/edu.brown.cs.student.stars.sorting.SortByAgeTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/target/surefire-reports/edu.brown.cs.student.stars.sorting.SortByNameTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/target/test-classes/edu/brown/cs/student/stars/sorting/SortByAgeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/target/test-classes/edu/brown/cs/student/stars/sorting/SortByNameTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sprint-0-gearup-repo/tests/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/tests/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2E2H32NqdWKClHIR4kqPF81AaZQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/edu/brown/cs/student" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/edu/brown/cs/student" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="edu.brown.cs.student.sorting.appendixSorting" />
+      <recent name="edu.brown.cs.student" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="edu.brown.cs.student.sorting.comparators" />
+      <recent name="edu.brown.cs.student.blender.attachements" />
+      <recent name="edu.brown.cs.student.blender" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.brown.cs.student.Main" />
+      <module name="stars" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.brown.cs.student.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.brown.cs.student.main.Main" />
+      <module name="stars" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.brown.cs.student.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.brown.cs.student.stars.Main" />
+      <module name="stars" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.brown.cs.student.stars.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7d5cf72-2a8a-47c0-8ed5-291e41f8182f" name="Changes" comment="" />
+      <created>1661786561708</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661786561708</updated>
+      <workItem from="1661786565018" duration="285000" />
+      <workItem from="1661787068323" duration="2348000" />
+      <workItem from="1661795015782" duration="10689000" />
+      <workItem from="1661868764969" duration="52000" />
+      <workItem from="1661869480831" duration="186000" />
+      <workItem from="1661885440499" duration="9077000" />
+      <workItem from="1661957508321" duration="554000" />
+      <workItem from="1661960553496" duration="9544000" />
+      <workItem from="1662001133362" duration="1855000" />
+      <workItem from="1662326164569" duration="566000" />
+      <workItem from="1662387049125" duration="2038000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:org.seleniumhq.selenium:selenium-java" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
