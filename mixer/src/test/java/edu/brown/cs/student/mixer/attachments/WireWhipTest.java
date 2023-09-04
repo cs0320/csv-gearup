@@ -19,5 +19,6 @@ public class WireWhipTest {
   public void test() {
     WireWhip wireWhip = new WireWhip();
     assertEquals(wireWhip.mix(), "Mixer wire whipper!");
+
   }
 }
