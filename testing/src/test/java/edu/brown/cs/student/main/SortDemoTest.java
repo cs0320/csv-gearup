@@ -6,4 +6,7 @@ import org.junit.Test;
 public class SortDemoTest {
   @Test
   public void test() {}
+
+  @Test
+  public void test2() {}
 }
