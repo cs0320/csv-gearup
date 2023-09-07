@@ -4,7 +4,7 @@ import edu.brown.cs.student.mixer.attachments.DoughHook;
 import edu.brown.cs.student.mixer.attachments.WireWhip;
 
 /** Example for the Mixer strategy pattern exercise. */
-public class MixerExample {
+public class  MixerExample {
 
   /** Constructs the example. */
   public MixerExample() {
