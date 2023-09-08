@@ -5,6 +5,6 @@ public class WireWhip implements Attachment {
 
   @Override
   public String mix() {
-    return "Mixing with the wire whip!";
+    return "Mixer wire whipper!";
   }
 }
