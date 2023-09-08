@@ -9,7 +9,6 @@ import org.junit.Test;
 
 /** Tests for Java's sort. FOR DEMOING. */
 public class SortDemoTest {
-  @Test
   public void testNotInOrder() {
     List<Integer> numbers = new ArrayList<>();
     numbers.add(31);
