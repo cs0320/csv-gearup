@@ -4,7 +4,7 @@ public interface GenericAttachment<T> {
     /**
      * Mixes.
      *
-     * @return String shows what would happen to something mixed by this attachment
+     * @return Object of parameterized type T, output of the mixture yielded by attachment
      */
     T mix();
 }
