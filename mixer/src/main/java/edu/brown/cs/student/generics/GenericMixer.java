@@ -24,7 +24,7 @@ public class GenericMixer<T> {
      *
      * @return the output mixture that the attachment produces upon mixing (type T)
      */
-    public T getMixedOutput() {
+    public T getMixture() {
         return this.attachment.mix();
     }
 

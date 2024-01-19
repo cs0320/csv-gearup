@@ -13,11 +13,11 @@ public class GenericMixerExample {
      */
     public GenericMixerExample() {
         GenericMixer<Dough> doughMixer = new GenericMixer<>(new DoughHook());
-        Dough dough = doughMixer.getMixedOutput();
+        Dough dough = doughMixer.getMixture();
         dough.knead();
 
         GenericMixer<Cream> creamMixer = new GenericMixer<>(new WireWhip());
-        Cream cream = creamMixer.getMixedOutput();
+        Cream cream = creamMixer.getMixture();
         cream.whip();
     }
 }
