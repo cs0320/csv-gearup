@@ -2,25 +2,22 @@ package edu.brown.cs.student.mixer;
 
 import edu.brown.cs.student.mixer.attachments.DoughHook;
 import edu.brown.cs.student.mixer.attachments.WireWhip;
+import edu.brown.cs.student.mixer.outputs.Cream;
+import edu.brown.cs.student.mixer.outputs.Dough;
 
-/** Example for the Mixer strategy pattern exercise. */
 public class MixerExample {
 
-  /** Constructs the example. */
+  /**
+   * Example that demonstrates generics and the strategy pattern working in conjunction. We inject
+   * the generic mixer with an attachment parameterized by the output it produces.
+   */
   public MixerExample() {
-    Mixer mixer = new Mixer(new DoughHook());
-    mixer.useAttachment();
+    Mixer<Dough> doughMixer = new Mixer<>(new DoughHook());
+    Dough dough = doughMixer.getMixture();
+    System.out.println(dough.knead());
 
-    mixer.setAttachment(new WireWhip());
-    mixer.useAttachment();
-
-    /*
-     * The important part of all of this is that interfaces allowed us to keep the same
-     * Mixer class, and continually add new functionality in the form of new
-     * Attachments without any changes to the class itself!
-     *
-     * During the sprints you will be making "Attachments" to already
-     * existing classes in the Java ecosystem (Ex: Comparators)
-     **/
+    Mixer<Cream> creamMixer = new Mixer<>(new WireWhip());
+    Cream cream = creamMixer.getMixture();
+    System.out.println(cream.whip());
   }
 }
