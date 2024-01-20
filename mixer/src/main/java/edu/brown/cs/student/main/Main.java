@@ -1,6 +1,6 @@
 package edu.brown.cs.student.main;
 
-import edu.brown.cs.student.generics.GenericMixerExample;
+import edu.brown.cs.student.mixer.MixerExample;
 
 /** The Main class of our project. This is where execution begins. */
 public final class Main {
@@ -20,7 +20,6 @@ public final class Main {
   }
 
   private void run() {
-    //    new MixerExample();
-    new GenericMixerExample();
+    new MixerExample();
   }
 }

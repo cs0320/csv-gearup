@@ -18,6 +18,6 @@ public class DoughHookTest {
   @Test
   public void test() {
     DoughHook doughHook = new DoughHook();
-    assertEquals(doughHook.mix(), "Mixing with the dough hook!");
+    assertEquals("Kneading dough!", doughHook.mix().knead());
   }
 }

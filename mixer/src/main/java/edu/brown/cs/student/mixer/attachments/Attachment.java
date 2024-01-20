@@ -1,11 +1,10 @@
 package edu.brown.cs.student.mixer.attachments;
 
-/** Interface to define a command within a Program. */
-public interface Attachment {
+public interface Attachment<T> {
   /**
    * Mixes.
    *
-   * @return String shows what would happen to something mixed by this attachment
+   * @return Object of parameterized type T, output of the mixture yielded by attachment
    */
-  String mix();
+  T mix();
 }

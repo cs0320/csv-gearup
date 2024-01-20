@@ -1,10 +1,11 @@
 package edu.brown.cs.student.mixer.attachments;
 
-/** Wire whip attachment. */
-public class WireWhip implements Attachment {
+import edu.brown.cs.student.mixer.outputs.Cream;
 
+/** Example of a generic attachment that produces cream (parameterized by the Cream object) */
+public class WireWhip implements Attachment<Cream> {
   @Override
-  public String mix() {
-    return "Mixing with the wire whip!";
+  public Cream mix() {
+    return new Cream();
   }
 }

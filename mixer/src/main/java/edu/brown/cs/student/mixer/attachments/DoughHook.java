@@ -1,10 +1,11 @@
 package edu.brown.cs.student.mixer.attachments;
 
-/** Kneads dough. */
-public class DoughHook implements Attachment {
+import edu.brown.cs.student.mixer.outputs.Dough;
 
+/** Example of a generic attachment that produces dough (parameterized by the Dough object) */
+public class DoughHook implements Attachment<Dough> {
   @Override
-  public String mix() {
-    return "Mixing with the dough hook!";
+  public Dough mix() {
+    return new Dough();
   }
 }

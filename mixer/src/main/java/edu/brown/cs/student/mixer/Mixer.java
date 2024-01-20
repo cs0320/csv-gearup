@@ -2,46 +2,29 @@ package edu.brown.cs.student.mixer;
 
 import edu.brown.cs.student.mixer.attachments.Attachment;
 
-/** A Mixer mixes. */
-public class Mixer {
-  private Attachment attachment;
+/**
+ * Class that mixes an output of a parameterized type T using an attachment that produces objects of
+ * type T
+ *
+ * @param <T> The output mixture of the mixer
+ */
+public class Mixer<T> {
 
-  /** Constructor for a Mixer without an Attachment. */
-  public Mixer() {}
+  Attachment<T> attachment;
 
   /**
-   * Constructor for a Mixer with an Attachment.
+   * Constructor for mixer.
    *
-   * @param a attachment to use
+   * @param attachment an attachment (parameterized by T) that produces objects of type T
    */
-  public Mixer(Attachment a) {
-    this.attachment = a;
+  public Mixer(Attachment<T> attachment) {
+    this.attachment = attachment;
   }
 
   /**
-   * Gets the Mixer's current Attachment.
-   *
-   * @return Returns the Mixer's current Attachment
+   * @return the output mixture that the attachment produces upon mixing (type T)
    */
-  public Attachment getAttachment() {
-    return attachment;
-  }
-
-  /**
-   * Sets the Mixer's current Attachment.
-   *
-   * @param a new Attachment to use
-   */
-  public void setAttachment(Attachment a) {
-    this.attachment = a;
-  }
-
-  /** Runs the mix() command for the given attachment. */
-  public void useAttachment() {
-    if (attachment != null) {
-      System.out.println(attachment.mix());
-    } else {
-      System.out.println("Please give the Mixer an Attachment first");
-    }
+  public T getMixture() {
+    return this.attachment.mix();
   }
 }
