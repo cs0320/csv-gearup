@@ -1,8 +1,0 @@
-# IntelliJ's project files
-.idea/
-
-# Maven
-target/
-.mvn
-.mvn-classpath
-pom.xml.bak
